@@ -1,0 +1,11 @@
+C:\Users\Jordan\backend\workspace\intro\bin\Debug\netcoreapp2.2\intro.deps.json
+C:\Users\Jordan\backend\workspace\intro\bin\Debug\netcoreapp2.2\intro.runtimeconfig.json
+C:\Users\Jordan\backend\workspace\intro\bin\Debug\netcoreapp2.2\intro.runtimeconfig.dev.json
+C:\Users\Jordan\backend\workspace\intro\bin\Debug\netcoreapp2.2\intro.dll
+C:\Users\Jordan\backend\workspace\intro\bin\Debug\netcoreapp2.2\intro.pdb
+C:\Users\Jordan\backend\workspace\intro\obj\Debug\netcoreapp2.2\intro.csprojAssemblyReference.cache
+C:\Users\Jordan\backend\workspace\intro\obj\Debug\netcoreapp2.2\intro.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\backend\workspace\intro\obj\Debug\netcoreapp2.2\intro.AssemblyInfoInputs.cache
+C:\Users\Jordan\backend\workspace\intro\obj\Debug\netcoreapp2.2\intro.AssemblyInfo.cs
+C:\Users\Jordan\backend\workspace\intro\obj\Debug\netcoreapp2.2\intro.dll
+C:\Users\Jordan\backend\workspace\intro\obj\Debug\netcoreapp2.2\intro.pdb
